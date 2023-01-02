@@ -1,3 +1,6 @@
+// Runs and determines the winner of a plurality (first-past-the-post) election.
+// Uses helper functions from CS50 library
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
